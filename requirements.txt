@@ -1,0 +1,2 @@
+evdev==0.5.0
+python-uinput==0.10.2
